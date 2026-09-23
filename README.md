@@ -165,17 +165,6 @@ For example, the project calculates average marks for each course using `GROUP B
 
 ---
 
-## 📁 Project Files
-
-```text
-Student-Tracker/
-│
-├── student_tracker.sql
-└── README.md
-```
-
----
-
 ## 💡 Key Learning
 
 Through this project, I practiced designing a relational database and writing SQL queries for data management and analysis. The project helped me understand how multiple related tables can be connected and analyzed using SQL.
